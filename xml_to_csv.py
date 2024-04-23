@@ -1,4 +1,7 @@
 """
+Modefied by Choi on 2024.04.23 for my great grade.
+in Sookmyung Women's University
+
 Usage:
 # Create train data:
 python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FOLDER]/train_labels.csv
